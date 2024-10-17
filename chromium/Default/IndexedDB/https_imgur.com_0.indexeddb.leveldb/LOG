@@ -1,0 +1,28 @@
+2024/10/16-01:58:44.091 90a7 Reusing MANIFEST /home/trader/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/16-01:58:44.092 90a7 Recovering log #4
+2024/10/16-01:58:44.092 90a7 Reusing old log /home/trader/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000004.log 
+2024/10/16-01:58:44.312 90b1 Level-0 table #8: started
+2024/10/16-01:58:44.314 90b1 Level-0 table #8: 4201 bytes OK
+2024/10/16-01:58:44.318 90b1 Delete type=0 #4
+2024/10/16-01:58:44.318 90a7 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/16-01:58:45.970 90a9 Level-0 table #10: started
+2024/10/16-01:58:45.973 90a9 Level-0 table #10: 5691 bytes OK
+2024/10/16-01:58:45.976 90a9 Delete type=0 #7
+2024/10/16-01:58:45.976 90a7 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 468 : 1
+2024/10/16-01:58:45.976 90a7 Compacting 1@0 + 1@1 files
+2024/10/16-01:58:45.983 90a7 Generated table #11@0: 242 keys, 3990 bytes
+2024/10/16-01:58:45.983 90a7 Compacted 1@0 + 1@1 files => 3990 bytes
+2024/10/16-01:58:45.987 90a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/16-01:58:45.987 90a7 Delete type=2 #10
+2024/10/16-01:58:45.987 90a7 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 468 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/16-02:01:27.057 90a8 Level-0 table #13: started
+2024/10/16-02:01:27.060 90a8 Level-0 table #13: 4932 bytes OK
+2024/10/16-02:01:27.063 90a8 Delete type=0 #9
+2024/10/16-02:01:27.063 90a8 Delete type=2 #8
+2024/10/16-02:01:27.063 90a7 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 643 : 1
+2024/10/16-02:01:27.063 90a7 Compacting 1@0 + 1@1 files
+2024/10/16-02:01:27.066 90a7 Generated table #14@0: 294 keys, 4659 bytes
+2024/10/16-02:01:27.066 90a7 Compacted 1@0 + 1@1 files => 4659 bytes
+2024/10/16-02:01:27.068 90a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/16-02:01:27.068 90a7 Delete type=2 #13
+2024/10/16-02:01:27.068 90a7 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 643 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,81 @@
+2024/10/17-21:53:00.772 4 Reusing MANIFEST /home/trader/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/17-21:53:00.777 4 Recovering log #86
+2024/10/17-21:53:00.777 4 Reusing old log /home/trader/.config/chromium/Default/Local Storage/leveldb/000086.log 
+2024/10/17-21:53:39.188 4 Level-0 table #90: started
+2024/10/17-21:53:39.192 4 Level-0 table #90: 39407 bytes OK
+2024/10/17-21:53:39.195 4 Delete type=0 #86
+2024/10/17-21:55:32.276 5 Level-0 table #92: started
+2024/10/17-21:55:32.309 5 Level-0 table #92: 20186 bytes OK
+2024/10/17-21:55:32.316 5 Delete type=0 #89
+2024/10/17-21:55:32.317 5 Compacting 4@0 + 1@1 files
+2024/10/17-21:55:32.360 5 Generated table #93@0: 743 keys, 947696 bytes
+2024/10/17-21:55:32.360 5 Compacted 4@0 + 1@1 files => 947696 bytes
+2024/10/17-21:55:32.364 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/17-21:55:32.365 5 Delete type=2 #82
+2024/10/17-21:55:32.365 5 Delete type=2 #87
+2024/10/17-21:55:32.365 5 Delete type=2 #92
+2024/10/17-21:55:32.365 5 Delete type=2 #90
+2024/10/17-21:55:32.365 5 Delete type=2 #85
+2024/10/17-22:01:18.593 5 Level-0 table #95: started
+2024/10/17-22:01:18.604 5 Level-0 table #95: 70792 bytes OK
+2024/10/17-22:01:18.610 5 Delete type=0 #91
+2024/10/17-22:02:18.961 5 Level-0 table #97: started
+2024/10/17-22:02:18.971 5 Level-0 table #97: 41790 bytes OK
+2024/10/17-22:02:18.976 5 Delete type=0 #94
+2024/10/17-22:05:20.008 5 Level-0 table #99: started
+2024/10/17-22:05:20.040 5 Level-0 table #99: 22283 bytes OK
+2024/10/17-22:05:20.046 5 Delete type=0 #96
+2024/10/17-22:06:43.823 5 Level-0 table #101: started
+2024/10/17-22:06:43.854 5 Level-0 table #101: 51681 bytes OK
+2024/10/17-22:06:43.858 5 Delete type=0 #98
+2024/10/17-22:06:43.859 5 Compacting 4@0 + 1@1 files
+2024/10/17-22:06:43.883 5 Generated table #102@0: 762 keys, 947610 bytes
+2024/10/17-22:06:43.883 5 Compacted 4@0 + 1@1 files => 947610 bytes
+2024/10/17-22:06:43.887 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/17-22:06:43.888 5 Delete type=2 #93
+2024/10/17-22:06:43.888 5 Delete type=2 #97
+2024/10/17-22:06:43.888 5 Delete type=2 #99
+2024/10/17-22:06:43.888 5 Delete type=2 #95
+2024/10/17-22:06:43.888 5 Delete type=2 #101
+2024/10/17-22:08:30.483 4 Level-0 table #104: started
+2024/10/17-22:08:30.518 4 Level-0 table #104: 46506 bytes OK
+2024/10/17-22:08:30.525 4 Delete type=0 #100
+2024/10/17-22:15:15.009 4 Level-0 table #106: started
+2024/10/17-22:15:15.041 4 Level-0 table #106: 52165 bytes OK
+2024/10/17-22:15:15.047 4 Delete type=0 #103
+2024/10/17-22:20:00.511 5 Level-0 table #108: started
+2024/10/17-22:20:00.527 5 Level-0 table #108: 124261 bytes OK
+2024/10/17-22:20:00.534 5 Delete type=0 #105
+2024/10/17-22:38:44.704 5 Level-0 table #110: started
+2024/10/17-22:38:44.713 5 Level-0 table #110: 17852 bytes OK
+2024/10/17-22:38:44.719 5 Delete type=0 #107
+2024/10/17-22:38:44.720 5 Compacting 4@0 + 1@1 files
+2024/10/17-22:38:44.768 5 Generated table #111@0: 847 keys, 1060322 bytes
+2024/10/17-22:38:44.768 5 Compacted 4@0 + 1@1 files => 1060322 bytes
+2024/10/17-22:38:44.771 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/17-22:38:44.772 5 Delete type=2 #108
+2024/10/17-22:38:44.772 5 Delete type=2 #102
+2024/10/17-22:38:44.772 5 Delete type=2 #110
+2024/10/17-22:38:44.772 5 Delete type=2 #106
+2024/10/17-22:38:44.772 5 Delete type=2 #104
+2024/10/17-22:39:17.851 4 Level-0 table #113: started
+2024/10/17-22:39:17.861 4 Level-0 table #113: 84955 bytes OK
+2024/10/17-22:39:17.868 4 Delete type=0 #109
+2024/10/17-22:41:02.501 5 Level-0 table #115: started
+2024/10/17-22:41:02.509 5 Level-0 table #115: 50029 bytes OK
+2024/10/17-22:41:02.514 5 Delete type=0 #112
+2024/10/17-22:42:36.183 5 Level-0 table #117: started
+2024/10/17-22:42:36.213 5 Level-0 table #117: 45823 bytes OK
+2024/10/17-22:42:36.220 5 Delete type=0 #114
+2024/10/17-22:50:27.501 4 Level-0 table #119: started
+2024/10/17-22:50:27.536 4 Level-0 table #119: 26424 bytes OK
+2024/10/17-22:50:27.542 4 Delete type=0 #116
+2024/10/17-22:50:27.542 4 Compacting 4@0 + 1@1 files
+2024/10/17-22:50:27.559 4 Generated table #120@0: 899 keys, 1116333 bytes
+2024/10/17-22:50:27.559 4 Compacted 4@0 + 1@1 files => 1116333 bytes
+2024/10/17-22:50:27.562 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/17-22:50:27.563 4 Delete type=2 #117
+2024/10/17-22:50:27.563 4 Delete type=2 #111
+2024/10/17-22:50:27.563 4 Delete type=2 #115
+2024/10/17-22:50:27.563 4 Delete type=2 #113
+2024/10/17-22:50:27.563 4 Delete type=2 #119

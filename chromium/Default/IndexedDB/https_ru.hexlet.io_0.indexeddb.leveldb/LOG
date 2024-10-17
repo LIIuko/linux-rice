@@ -1,0 +1,6 @@
+2024/10/17-22:52:43.543 2ade Creating DB /home/trader/.config/chromium/Default/IndexedDB/https_ru.hexlet.io_0.indexeddb.leveldb since it was missing.
+2024/10/17-22:52:43.591 2ade Reusing MANIFEST /home/trader/.config/chromium/Default/IndexedDB/https_ru.hexlet.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/17-22:53:09.617 2adf Level-0 table #5: started
+2024/10/17-22:53:09.619 2adf Level-0 table #5: 1849 bytes OK
+2024/10/17-22:53:09.622 2adf Delete type=0 #3
+2024/10/17-22:53:09.623 2adf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
