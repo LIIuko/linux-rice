@@ -23,6 +23,9 @@ Shift_L + alt
 
 # screenshot
 Print
+    flameshot gui  # TODO screenshot screen 1 monitor
+
+ctrl + Print
     flameshot gui
 
 super + F5
