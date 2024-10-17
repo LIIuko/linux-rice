@@ -11,6 +11,7 @@
 - **xrandr** — утилита для настройки дисплеев.
 - **arandr** — графическая оболочка для xrandr.
 - **python-pywal** — утилита для генерации цветовых схем.
+- **feh** — утилита для отображения изображений, часто используется для установки обоев.
 - **pavucontrol** — утилита для управления настройками звука.
 - **rofi** — менеджер приложений и файлов.
 - **flameshot** — утилита для создания скриншотов.
@@ -26,7 +27,7 @@
 Для установки пакетов, используйте следующую команду:
 
 ```
-sudo pacman -S kitty python-pywal fastfetch pavucontrol picom rofi bspwm sxhkd chromium flameshot pipewire polybar telegram-desktop xrandr arandr
+sudo pacman -S feh kitty python-pywal fastfetch pavucontrol picom rofi bspwm sxhkd chromium flameshot pipewire polybar telegram-desktop xrandr arandr
 ```
 
 ### Установка пакетов через yay

@@ -4,7 +4,6 @@
     	"source": "/home/trader/.config/fastfetch/images/img2.png",
     	"type": "kitty-direct",
         "width": 30,
-        "height": 20,
     	"padding": {
     		"top": 2,
             "left": 4
